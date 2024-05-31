@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import { Bell, CircleCheck, CircleX, Cloud, History, Landmark, Recycle, X } from "lucide-react";
+import { Bell, CircleCheck, CircleX, Cloud, History, Landmark, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { BiMessageRoundedError } from "react-icons/bi";
